@@ -1,2 +1,0 @@
-Welcome to Python->
-file i/o from the system!Writing with the 'a' method.Writing with the 'a' method.Writing with the 'a' method.Writing with the 'a' method.
